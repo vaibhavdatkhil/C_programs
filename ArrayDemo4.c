@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//     Array bascics
 int main()
 {
     int Arr[5] = {10,20,30,40,50};
