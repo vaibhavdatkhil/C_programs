@@ -7,6 +7,7 @@ int main()
     int *p = NULL;
     int *q = NULL;
 
+    // Array to pointer 
     p = &(Arr[1]);
     q = &(Arr[4]);
 
